@@ -1,4 +1,4 @@
-package com.smc.licensingservice;
+package com.example.licenseservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LicensingServiceApplicationTests {
+public class LicenseServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
